@@ -6,4 +6,5 @@ import { UsageService } from './usage.service';
   controllers: [UsageController],
   providers: [UsageService]
 })
+
 export class UsageModule {}
